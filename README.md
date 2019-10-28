@@ -47,3 +47,5 @@ https://help.github.com/en/github/using-git/getting-changes-from-a-remote-reposi
 https://help.github.com/en/github/using-git/getting-changes-from-a-remote-repository
 
 https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+
+https://guides.github.com/introduction/git-handbook/
