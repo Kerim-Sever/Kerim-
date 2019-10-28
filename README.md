@@ -37,8 +37,13 @@ https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBmp
 
 
 Citations 
+
 https://www.atlassian.com/git/tutorials/syncing/git-pull
+
 https://help.github.com/en/github/administering-a-repository/about-merge-methods-on-github
+
 https://help.github.com/en/github/using-git/getting-changes-from-a-remote-repository
+
 https://help.github.com/en/github/using-git/getting-changes-from-a-remote-repository
+
 https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
