@@ -29,5 +29,16 @@ A03
 **Fetch**: Retrieves new work done by other people. Fetching from a repository grabs all the new remote-tracking branches and tags without merging those changes into your own branches.
 
 **Remote**: common repository that all team members use to exchange their changes.
+ 
+
+**Example of Workflow diagram**
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBmpOr073lAhVIx1kKHcqxAwMQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.researchgate.net%252Ffigure%252FWorkflow-of-management-in-GitHub-ITS_fig5_321736237%26psig%3DAOvVaw1ErANTGZ4yp2_JlKef4BiG%26ust%3D1572307295289969&psig=AOvVaw1ErANTGZ4yp2_JlKef4BiG&ust=1572307295289969
 
 
+
+Citations 
+https://www.atlassian.com/git/tutorials/syncing/git-pull
+https://help.github.com/en/github/administering-a-repository/about-merge-methods-on-github
+https://help.github.com/en/github/using-git/getting-changes-from-a-remote-repository
+https://help.github.com/en/github/using-git/getting-changes-from-a-remote-repository
+https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
