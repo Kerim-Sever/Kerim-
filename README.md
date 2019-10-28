@@ -36,7 +36,7 @@ https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBmp
 
 
 
-Citations 
+**Citations** 
 
 https://www.atlassian.com/git/tutorials/syncing/git-pull
 
